@@ -1,6 +1,7 @@
-#include "leptjson.h"
 #include <assert.h>  /* assert() */
 #include <stdlib.h>  /* NULL */
+#include "mleptjson.h"
+
 
 typedef struct{
     const char* json_str;
